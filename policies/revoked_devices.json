@@ -1,10 +1,14 @@
 {
   "version": 1,
-  "updated_at": "2026-06-12T13:34:44.0424832Z",
+  "updated_at": "2026-06-29T21:16:52.2291897Z",
   "revoked": [
     {
       "device_id": "A93BA5B91C76DE206ED5EE935F651D08224FA5F3B96F59962E47B2814FEBB2F8",
       "revoked_at": "2026-02-13T01:10:42.0803005Z"
+    },
+    {
+      "device_id": "ED297DF8C752645A8872FC493E45B0005711323C963B10A02F9C18FD0093BCF2",
+      "revoked_at": "2026-06-29T21:16:52.2288699Z"
     }
   ]
 }
